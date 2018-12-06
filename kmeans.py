@@ -76,7 +76,10 @@ plt.figure(2)
 plt.scatter(transformed[:, 0], transformed[:, 1], c=y_gt)
 
 plt.figure(3)
-plt.scatter(transformed[:, 0], transformed[:, 1], c=new_y_pred)
+plt.scatter(new_transformed[:, 0], new_transformed[:, 1], c=new_y_pred)
+
+plt.figure(4)
+plt.scatter(new_transformed[:, 0], new_transformed[:, 1], c=y_gt)
 plt.show()
 
 
