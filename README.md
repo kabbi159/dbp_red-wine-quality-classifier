@@ -1,5 +1,5 @@
 # dbp_red-wine-quality-classifier
-2018-2 SWE3033 Database Project - Red Wine Quality Classifier
+2018-2 SWE3033 Data Mining Project - Red Wine Quality Classifier
 
 
 Dataset: Wine Quality Data Set
