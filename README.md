@@ -1,6 +1,8 @@
 # dmp_red-wine-quality-classifier
 2018-2 SWE3033 Data Mining Project - Red Wine Quality Classifier
 
+- Experiment with SVM classifier and k-means classifier
+- I experimented without preprocessing, that leads to bad performance. (Purpose of experiment)
 
 Dataset: Wine Quality Data Set
 
